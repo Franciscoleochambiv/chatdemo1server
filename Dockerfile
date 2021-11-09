@@ -1,6 +1,6 @@
 FROM node:14.15.4-alpine3.11
 
-WORKDIR /home/Descargas/chat3/server
+WORKDIR /home/Descargas/chatdemo1server
 
 COPY ["package.json", "package-lock.json*", "./"]
 
