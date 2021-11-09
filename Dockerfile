@@ -1,4 +1,4 @@
-FROM node:10.13-alpine
+FROM node:14.15.4-alpine3.11
 
 WORKDIR /home/Descargas/chat3/server
 
